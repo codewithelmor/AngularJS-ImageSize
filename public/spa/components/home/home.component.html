@@ -1,0 +1,15 @@
+﻿<div class="card text-white bg-dark mb-3">
+    <div class="card-header">Image Upload</div>
+    <div class="card-body">
+        <h4 class="card-title">Form</h4>
+        <p class="card-text">
+            <form>
+                <div class="form-group">
+                    <label for="exampleInputFile">File input</label>
+                    <input type="file" class="form-control-file" id="exampleInputFile" aria-describedby="fileHelp" ngf-select="vm.upload($file)" ngf-pattern="'image/*'" ngf-accept="'image/*'" ngf-max-size="20MB">
+                    <small id="fileHelp" class="form-text text-muted">This is some placeholder block-level help text for the above input. It's a bit lighter and easily wraps to a new line.</small>
+                </div>
+            </form>
+        </p>
+    </div>
+</div>
