@@ -11,4 +11,4 @@ AngularJS getting the image size from uploaded image
 - Image Size Module Features
   - Get the width, height and file type for validation
        
-![Alt text](https://repository-images.githubusercontent.com/203489432/f0774000-c3fd-11e9-85dc-70402447d210 "AngularJS DataTable")
+![Alt text](https://repository-images.githubusercontent.com/203496299/71d3d000-c408-11e9-98d9-26922a261299 "AngularJS Image Size")
